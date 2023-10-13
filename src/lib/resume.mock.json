@@ -1,0 +1,308 @@
+{
+  "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
+  "basics": {
+    "name": "Dimitri Teboul",
+    "label": "Code Craftman",
+    "image": "https://media.licdn.com/dms/image/C4E03AQEDNZ9uni8gSw/profile-displayphoto-shrink_200_200/0/1639159402725?e=1697673600&v=beta&t=w3ti9BcjK-vwCHitl74KTmGb_DxhIsLc7Jh9LRBtqdw",
+    "email": "dimteboul+resume@gmail.com",
+    "phone": "",
+    "summary": "Pushed forward by an unquenshable thirst for knowledge. In an ever-evolving digital world, the key to progress and personal enrichment is learning new technologies and new ways to work and think together.\nI believe in continuous self-improvement to enhance my development skills and foster creativity.\nThe pleasure I find in my job is to solve problems without focusing first on the technology but in creating a mental model of the problem, shared among all stakeholders. Then using code to mimic this mental model ensuring the software fits the solution space deeply.",
+    "location": {
+      "countryCode": "FR",
+      "address": "France",
+      "city": "Lyon"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "dimteboul",
+        "url": "https://www.linkedin.com/in/dimteboul/"
+      },
+      {
+        "network": "Github",
+        "username": "kaendor",
+        "url": "https://github.com/kaendor"
+      }
+    ]
+  },
+  "work": [
+    {
+      "startDate": "2021-12-31",
+      "name": "Netwo",
+      "position": "Full-stack Developer",
+      "highlights": [
+        "Testing strategy setup of Rust backend",
+        "Improvement of REST API Conventions",
+        "General improvement of development practices and documentation",
+        "Infrastructure as Code with Terraform hosted on GCloud"
+      ],
+      "summary": "Architecture, modelisation and development of a SaaS marketplace for telecom operators.\n\nCreation and improvement of landline portability automation process.\n\n Main technologies: Rust, Typescript, Postgres, AMQP, OpenAPI, Terraform.",
+      "url": "https://www.netwo.io/",
+      "location": "Lyon, Auvergne-Rhône-Alpes, France"
+    },
+    {
+      "name": "Viaco",
+      "position": "Technical Lead",
+      "startDate": "2020-08-31",
+      "endDate": "2021-12-31",
+      "highlights": [
+        "Setup of team coordination and standard dev practices",
+        "Architecture of lambda for RESTful API",
+        "Team management",
+        "Terraform"
+      ],
+      "summary": "Setup of good dev practices.\n\nModelisation, architecture and development of a collaborative SaaS solution for Construction actors.\nStack : Serverless, Typescript, React, Terraform",
+      "url": "https://viaco.fr/",
+      "location": "Lyon, Auvergne-Rhône-Alpes, France"
+    },
+    {
+      "name": "Freelance",
+      "position": "Full-stack Developer",
+      "startDate": "2017-09-30",
+      "endDate": "2021-12-31",
+      "highlights": [
+        "PHP",
+        "React",
+        "Wordpress",
+        "Typescript",
+        "HTML"
+      ],
+      "location": "Région de Lyon, France"
+    },
+    {
+      "name": "MeetSYS SAS",
+      "position": "Full-stack Developer",
+      "startDate": "2020-02-28",
+      "endDate": "2020-08-31",
+      "highlights": [
+        "Add testing strategy on AngularJS codebase",
+        "Improvement of bash script for deployment of SaaS on premise",
+        "Prototyping of decentralised desktop application with Electron, Vite and Gossip protocols"
+      ],
+      "summary": "Knowledge management for organisations with on-premise AngularJS portal",
+      "url": "https://www.linkedin.com/company/meetsys-sas/",
+      "location": "Lyon, Auvergne-Rhône-Alpes, France"
+    },
+    {
+      "name": "myCO",
+      "position": "Lead SDK Developer",
+      "startDate": "2019-10-31",
+      "endDate": "2020-02-28",
+      "highlights": [
+        "Cryptographic SDK development for web embedding with Typescript and React",
+        "Consented data dashboard development for corporation",
+        "Mobile app prototyping for individuals with ReactNative"
+      ],
+      "summary": "SDK development for data ownership and consent between corporation and individuals.",
+      "url": "https://www.linkedin.com/company/myco./",
+      "location": "Région de Lyon, France"
+    },
+    {
+      "name": "UPANDGO",
+      "position": "Full-Stack Developer",
+      "startDate": "2019-07-31",
+      "endDate": "2019-10-31",
+      "highlights": [
+        "Creation and maintenance of e-learning module in React and Typescript",
+        "Setup and improvement of agile rituals for the team",
+        "Improvement and maintenance of a NestJS GraphQL backend with MongoDB and Postgres hosted on private kubernetes",
+        "Setup of testing practices and Domain Driven Design principles"
+      ],
+      "summary": "Scrum Master of a two pizza team, building e-learning SaaS  and modules for organizations.",
+      "url": "https://www.linkedin.com/company/up-and-go/",
+      "location": "Région de Lyon, France"
+    },
+    {
+      "name": "eurower.fr",
+      "position": "CTO",
+      "startDate": "2016-04-30",
+      "endDate": "2017-08-31",
+      "highlights": [
+        "PHP",
+        "JQuery",
+        "Bash",
+        "Nagios",
+        "Bare metal"
+      ],
+      "summary": "Web development with raw PHP5.3/HTML/JS and on site monitoring and intervention. Client acquisition and management, project management and delivery. Research of new product and SaaS development",
+      "url": "https://infogerance-serveurs-dedies.fr/"
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "ILARA",
+      "position": "President",
+      "startDate": "2019-12-01",
+      "endDate": "2023-02-13",
+      "summary": "Management and planning of LARP events",
+      "highlights": [
+        "Team management",
+        "Project management",
+        "Tooling development",
+        "World building",
+        "Ad management"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Université Claude Bernard Lyon 1",
+      "area": "Computer Science and Mathematics",
+      "url": "https://www.univ-lyon1.fr/",
+      "studyType": "Licence",
+      "startDate": "2013-12-31",
+      "endDate": "2015-12-31",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [
+    {
+      "name": "EF SET English Certificate 86/100 (C2 Proficient)",
+      "issuer": "EF Standard English Test (EF SET) ",
+      "date": "2019-02-28",
+      "url": "https://www.efset.org/cert/QERgYp"
+    },
+    {
+      "name": "Javascript ES6+ Beginner",
+      "issuer": "SkillValue",
+      "date": "2019-10-31",
+      "url": "https://skillvalue.com/en/certificate/FCoMLrm0Lfiy8ChzApKPR3ZKvRME1jSLjY1BIN3ooFSJRv2pkQZsVBqGEddi"
+    },
+    {
+      "name": "Javascript ES6+ Advanced",
+      "issuer": "SkillValue",
+      "date": "2019-10-31",
+      "url": "https://skillvalue.com/en/certificate/dpFe27OcUqyo208rLpyqiEtHwQTZEg9HAh2TC6rY7uyaugeQysN4fJcMUtCE"
+    },
+    {
+      "name": "Rust intermédiaire",
+      "issuer": "SkillValue",
+      "date": "2021-07-31",
+      "url": "https://skillvalue.com/fr/user/certificate/4DCOBCCtvZhDLLAqVr0dVdJxRaKXetj7MIBm5B9Gtu6mywhulo4kms9EKCs9"
+    }
+  ],
+  "publications": [
+    {
+      "name": "Rust : forces et faiblesses après 2 ans en production pour un SaaS web",
+      "publisher": "SnowCamp 2023",
+      "releaseDate": "2023-01-27",
+      "url": "https://snowcamp2023.sched.com/event/1EOwJ/rust-forces-et-faiblesses-apres-2-ans-en-production-pour-un-saas-web",
+      "summary": "Rust est en passe de devenir l’un des langages les plus influents des prochaines décennies : intégré au kernel Linux tout récemment, peu énergivore à l’exécution, langage préféré des développeurs pour la septième année selon StackOverflow, etc. Cet engouement est-il véritablement justifié ? Quelles sont les fonctionnalités qui en font un langage agréable à utiliser, et à l’inverse, quels sont ses douleurs ? \nNetwo a fait le choix il y a 2 ans d’utiliser Rust.\nQue peut-on en retenir vis-à-vis de :\n - la montée en compétence des développeurs\n - l’utilisation du langage au quotidien\n - le comportement des applications en production\n\n Nous vous proposons donc un retour d’expérience de son utilisation dans le cadre d’un SaaS web. Nous insisterons sur les sujets qui, à nos yeux, font la force de ce langage.\n Aucune compétence Rust préalable n’est nécessaire. Nous expliquerons les concepts par des exemples de code suffisamment simples pour être compris par tous. "
+    }
+  ],
+  "skills": [
+    {
+      "name": "Frontend",
+      "keywords": [
+        "Svelte",
+        "React"
+      ]
+    },
+    {
+      "name": "Backend",
+      "keywords": [
+        "NodeJS",
+        "PostgreSQL",
+        "API Development"
+      ]
+    },
+    {
+      "name": "Languages",
+      "keywords": [
+        "Rust",
+        "Typescript",
+        "SQL",
+        "HTML",
+        "SCSS"
+      ]
+    },
+    {
+      "name": "DevOps",
+      "keywords": [
+        "G Cloud",
+        "AWS",
+        "Serverless"
+      ]
+    },
+    {
+      "name": "Management",
+      "keywords": [
+        "Team player",
+        "Clear Communication",
+        "Coordination",
+        "Strategic Planning",
+        "Mentoring",
+        "Scrum"
+      ]
+    },
+    {
+      "name": "Miscellaneous",
+      "keywords": [
+        "Data modeling",
+        "Domain Driven Design",
+        "TDD",
+        "Hexagonal Architecture"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "French",
+      "fluency": "Native Speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Fluent"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Sport",
+      "keywords": [
+        "Hiking"
+      ]
+    },
+    {
+      "name": "Social",
+      "keywords": [
+        "Tabletop RPG, LARP"
+      ]
+    },
+    {
+      "name": "Music",
+      "keywords": [
+        "Listening",
+        "Drumming"
+      ]
+    },
+    {
+      "name": "Coding",
+      "keywords": [
+        "Rust",
+        "Svelte"
+      ]
+    }
+  ],
+  "references": [],
+  "projects": [
+    {
+      "startDate": "2023-06-27",
+      "name": "Dem's Writing",
+      "description": "Relatives's writing website made with Svelte and SanityCMS",
+      "keywords": [
+        "SvelteJS",
+        "Sanity.io",
+        "Vercel"
+      ],
+      "url": "https://dem-writings.vercel.app/",
+      "type": "website"
+    }
+  ],
+  "meta": {
+    "version": "v1.0.0",
+    "canonical": "https://github.com/jsonresume/resume-schema/blob/v1.0.0/schema.json",
+    "theme": "elegant"
+  }
+}
